@@ -17,5 +17,7 @@ Since dist folder is in a subfolder and gh-pages requires pages to be at root,
 we create a branch called "gh-pages" to host pages only.
 We delete and recreate branch when we need to update the website using:
 
-    git push origin --delete gh-pages
-    git subtree push --prefix dist origin gh-pages
+    git branch -D gh-pages
+    git checkout --orphan gh-pages
+    rm -r templates/ node_modules/ *.* && mv dist/* . && rm -r dist
+    git add . && git commit -m "published pages" && git push origin gh-pages -f
