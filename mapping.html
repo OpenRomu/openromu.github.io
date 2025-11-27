@@ -1,0 +1,165 @@
+<html>
+    <head>    
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-XGTL9D3T55"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-XGTL9D3T55');
+        </script>
+        <title>OpenRomu</title>
+        <link rel="icon" type="image/x-icon" href="./assets/OpenRomu.ico">
+        <link rel="stylesheet" href="./assets/styles.css">
+        <link href=" https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css " rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div class="app">
+            <!-- LEFT MENU -->
+            <div class="side-menu">
+                <div class="side-header">
+                    <span style="display: block; height: 80px;"></span>
+                    <img src="./assets/FRFlag.png">
+                    <span style="display: block; height: 40px;"></span>
+                </div>
+                <div class="side-section">
+                    <h2 class="side-title">Téléchargement</h2>
+                    <p class="version-text">
+                        OpenRomu<br />
+                        Version 1.4.1
+                    </p>
+                    <div class="download-container">
+                        <a href="https://github.com/OpenRomu/OpenRomu/releases/download/v1.4.1/OpenRomu-v1.4.1-win_x86-64.zip" class="download-btn"><img class="download-btn-icon" src="./assets/win.png" /></a>
+                        <a href="https://github.com/OpenRomu/OpenRomu/releases/download/v1.4.1/OpenRomu-v1.4.1-macOS_x86-64.zip" class="download-btn"><img class="download-btn-icon" src="./assets/osx.png" /></a>
+                        <a href="https://github.com/OpenRomu/OpenRomu/releases/download/v1.4.1/OpenRomu-v1.4.1-linux_x86-64.zip" class="download-btn"><img class="download-btn-icon" src="./assets/linux.png" /></a>
+                    </div>
+                    <p class="side-text" style="text-align: justify; text-justify: inter-word;">
+                        <b>Avant de lancer le jeu, réferez vous au tutoriel disponible dans la section "Comment Jouer"</b>
+                    </p>
+                </div>
+                <div class="side-section">
+                    <h2 class="side-title">Status du Serveur</h2>
+                    <p class="side-text">
+                        Serveur Maître:<br />
+                        <b><span id="server-status">Inconnu</span></b><br />
+                    </p>
+                </div>
+                <div class="side-section">
+                    <h2 class="side-title">Créer un compte</h2>
+                    <p class="side-text">
+                        <a href="./register.html"><b>Ca se passe ici!</b></a>
+                    </p>
+                </div>
+                <div class="side-section">
+                    <h2 class="side-title">Contact</h2>
+                    <p class="side-text">
+                        Si vous souhaitez partager des <b>archives</b> ou informations, ou créations avec OpenRomu:<br /><br />
+                        <b>Rejoignez notre <a href="https://discord.gg/cm8MvGTj8P">Discord</a><br /><br /></b>
+                        <b>Envoyez un mail à <a href="mailto:OpenRomu@gmail.com">OpenRomu@gmail.com</a><br /></b>
+                    </p>
+                </div>
+                <div class="side-section">
+                    <h2 class="side-title">Partagez!</h2>
+                    <p class="side-text">
+                        Vous appréciez OpenRomu ?<br />
+                        Parlez-en! Et la fréquentation augmentera.<br />
+                    </p>
+                </div>
+            </div>
+            <div class="layout-separator"></div>
+            <!-- MAIN CONTAINER -->
+            <div class="main-container">
+                
+<!-- NAVIGATION -->
+<nav>
+    <ul class="menu-container">
+        <li class="menu-btn">
+            <a class="menu-link" href="./index.html">Accueil</a>
+        </li>
+        <li class="menu-btn">
+            <a class="menu-link" href="./howtoplay.html">Comment Jouer</a>
+        </li>
+        <li class="menu-btn">
+            <a class="menu-link" href="./leaderboard.html">Classements</a>
+        </li>
+        <li class="menu-btn">
+            <a class="menu-active" href="./mapping.html">Mapping</a>
+        </li>
+        <li class="menu-btn">
+            <a class="menu-link" href="./archives.html">Archives</a>
+        </li>
+    </ul>
+</nav>
+                <div class="orange-line"></div>
+                <!-- PAGE CONTENT -->
+                <div id="content"><!-- PAGE CONTENT -->
+<h2>Mappez pour OpenRomu !</h2>
+
+<a class="download-btn" href="https://github.com/OpenRomu/OpenRomu_Mapping_SDK/releases">Téléchargement du SDK</a>
+
+<h3>Créer le niveau</h3>
+<div class="split">
+  <div style="margin-right: 50px;">
+    <p>
+      OpenRomu utilise des cartes au format natif de Half-Life 1 (BSP), vous pouvez donc choisir parmi une sélection d'éditeurs tiers compatibles avec Half-Life, les plus connus étant:<br />
+    </p>
+    <ul>
+      <li><a href="https://developer.valvesoftware.com/wiki/Half-Life_SDK">Valve Hammer</a></li>
+      <li><a href="https://jack.hlfx.ru/en/">J.A.C.K.</a></li>
+      <li><a href="https://trenchbroom.github.io/">Trenchbroom</a></li>
+    </ul>
+    <p>
+      De nombreux tutoriaux sont disponibles sur internet pour apprendre a créer des niveaux avec ces outils.<br />
+      Pour les nostalgiques et débutants, <a href="./assets/SiteDuZero_Tutorial_Hammer.pdf">voici le pdf qui permet d'apprendre a créer des maps</a> sur Valve Hammer, issu du Siteduzero de 2008 !<br />
+      <br />
+      Quel que soit l'outil que vous souhaitez utiliser, il vous faudra un fichier "FGD" pour configurer votre éditeur pour OpenRomu.<br />
+      Cela permet de configurer votre éditeur pour n'afficher que les entités supportées par OpenRomu.<br />
+    </p>
+  </div>
+  <img style="width: 60%; max-width: 400px; height: auto; max-height: 400px; " src="assets/Vhe_main_view.jpg" />
+</div>
+<h3>Textures</h3>
+<p>
+  OpenRomu utilise là aussi des textures au format natif de Half-Life 1 (WAD).<br />
+  Le jeu est fourni avec un WAD dont les textures sont libres de droit (CC0), ou ont été crées par la communauté.<br />
+  Le SDK possède une fonction qui vous permet d'ajouter vos propres textures et de créer un WAD custom à utiliser dans vos cartes.<br />
+  Il est également possible de trouver des WADs en ligne, mais veillez a respecter la propriété de chacun lorseque vous utilisez des assets téléchargés.<br />
+</p>
+<h3>Intégrer la map dans le jeu</h3>
+<p>
+  OpenRomu ne lit pas directement les fichiers de niveaux au format BSP, (bien qu'il soit capable de le faire via les outils de développement).<br />
+  Les cartes jouables en ligne et distribuées sont au format .PAK. Grâce au SDK, il est possible de convertir une carte BSP en fichier .PAK pour l'intégrer au jeu.<br />
+  Pour jouer en ligne à vos niveaux sur OpenRomu, veillez a respecter ce format.<br />
+</p>
+<p>
+  N'oubliez pas de partager vos créations sur le discord!
+</p>
+</div>
+            </div>
+        </div>
+        <!-- FOOTER -->
+<br />
+<div class="footer">
+    <p>
+        Vous rencontrez un problème avec le site, le jeu, ou un autre joueur?
+        <a href="#" onclick="window.open('https://forms.bluecatreports.com/nt9VW40x/openromu-|-signaler-un-bug', 'OpenRomu | Signaler un problème', 'width=800,height=600');">Signaler un problème</a>
+    </p>
+</div>
+        <script defer>
+            fetch('https://game.openromu.fr:443/hc').then(async (response) => {
+                let serverStatus = document.getElementById("server-status");
+                if (!response.ok) {
+                    serverStatus.style = "color: red;"
+                    serverStatus.innerText = "DOWN"
+                } else {
+                    serverStatus.style = "color: green;"
+                    serverStatus.innerText = "UP"
+                }
+            })
+        </script>
+    </body>
+</html>
