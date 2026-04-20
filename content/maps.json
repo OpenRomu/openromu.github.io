@@ -1,0 +1,661 @@
+{
+    "imported": [
+        {
+            "link": "https://gamebanana.com/mods/91531",
+            "name": "747b",
+            "creator": "Stephen 'Judas' Superville",
+            "preview": "https://gamebanana.com/mods/embeddables/91531?type=small"
+        },
+        {
+            "link": "",
+            "name": "assault",
+            "creator": "Valve",
+            "preview": ""
+        },
+        {
+            "link": "https://gamebanana.com/mods/97098",
+            "name": "awp_city",
+            "creator": "SuperJer",
+            "preview": "https://gamebanana.com/mods/embeddables/97098?type=small"
+        },
+        {
+            "link": "",
+            "name": "aztec",
+            "creator": "Valve",
+            "preview": ""
+        },
+        {
+            "link": "",
+            "name": "aztec_temple",
+            "creator": "M.56 Atlantean et Neo Turk",
+            "preview": ""
+        },
+        {
+            "link": "https://gamebanana.com/mods/83313",
+            "name": "bsxlan",
+            "creator": "Freimaurer (Original: BetaSux & Xell)",
+            "preview": "https://gamebanana.com/mods/embeddables/83313?type=small"
+        },
+        {
+            "link": "https://gamebanana.com/mods/91785",
+            "name": "cairo",
+            "creator": "AlexNo.1",
+            "preview": "https://gamebanana.com/mods/embeddables/91785?type=small"
+        },
+        {
+            "link": "",
+            "name": "cbble",
+            "creator": "Valve",
+            "preview": ""
+        },
+        {
+            "link": "",
+            "name": "chateau",
+            "creator": "Valve",
+            "preview": ""
+        },
+        {
+            "link": "",
+            "name": "clan",
+            "creator": "unknown",
+            "preview": ""
+        },
+        {
+            "link": "",
+            "name": "corse",
+            "creator": "Speedo",
+            "preview": ""
+        },
+        {
+            "link": "",
+            "name": "desperado",
+            "creator": "unknown",
+            "preview": ""
+        },
+        {
+            "link": "",
+            "name": "dust",
+            "creator": "Valve",
+            "preview": "https://gamebanana.com/mods/embeddables/8521?type=small"
+        },
+        {
+            "link": "",
+            "name": "fort",
+            "creator": "Valve",
+            "preview": ""
+        },
+        {
+            "link": "https://gamebanana.com/mods/92020",
+            "name": "haste",
+            "creator": "B@tman",
+            "preview": "https://gamebanana.com/mods/embeddables/92020?type=small"
+        },
+        {
+            "link": "",
+            "name": "iraq",
+            "creator": "FragNaT1c",
+            "preview": ""
+        },
+        {
+            "link": "",
+            "name": "italian",
+            "creator": "TorQue[MoD]",
+            "preview": ""
+        },
+        {
+            "link": "",
+            "name": "italy",
+            "creator": "Valve",
+            "preview": "https://gamebanana.com/mods/embeddables/100043?type=small"
+        },
+        {
+            "link": "https://gamebanana.com/mods/92190",
+            "name": "mario",
+            "creator": "unknown",
+            "preview": "https://gamebanana.com/mods/embeddables/92190?type=small"
+        },
+        {
+            "link": "",
+            "name": "Metro",
+            "creator": "unknown",
+            "preview": ""
+        },
+        {
+            "link": "",
+            "name": "middleage",
+            "creator": "unknown",
+            "preview": ""
+        },
+        {
+            "link": "",
+            "name": "paris",
+            "creator": "Warbeast",
+            "preview": ""
+        },
+        {
+            "link": "",
+            "name": "shogun",
+            "creator": "[builder]oma",
+            "preview": ""
+        },
+        {
+            "link": "",
+            "name": "siege",
+            "creator": "unknown",
+            "preview": ""
+        },
+        {
+            "link": "",
+            "name": "sniper",
+            "creator": "unknown",
+            "preview": ""
+        },
+        {
+            "link": "",
+            "name": "town",
+            "creator": "Kawak Time",
+            "preview": ""
+        },
+        {
+            "link": "",
+            "name": "train",
+            "creator": "Valve",
+            "preview": ""
+        },
+        {
+            "link": "",
+            "name": "Tunisia",
+            "creator": "Valve",
+            "preview": ""
+        },
+        {
+            "link": "",
+            "name": "twintowers",
+            "creator": "unknown",
+            "preview": ""
+        },
+        {
+            "link": "",
+            "name": "villa",
+            "creator": "MessiA",
+            "preview": ""
+        },
+        {
+            "link": "",
+            "name": "virtuascoutz",
+            "creator": "Moostix",
+            "preview": ""
+        },
+        {
+            "link": "",
+            "name": "wayofguns",
+            "creator": "CaDeZeon / GrosMinet",
+            "preview": ""
+        }
+    ],
+    "created": [
+        {
+            "link": "",
+            "name": "Aerodrome",
+            "kind": "creation",
+            "creator": "Laboss"
+        },
+        {
+            "link": "",
+            "name": "Arche",
+            "kind": "creation",
+            "creator": "Bonovox"
+        },
+        {
+            "link": "",
+            "name": "awp_city_2",
+            "kind": "modification",
+            "creator": "JLB"
+        },
+        {
+            "link": "",
+            "name": "Awp_city3",
+            "kind": "modification",
+            "creator": "JLB"
+        },
+        {
+            "link": "",
+            "name": "Awp_city4",
+            "kind": "modification",
+            "creator": "JLB"
+        },
+        {
+            "link": "",
+            "name": "Awp_city4C",
+            "kind": "modification",
+            "creator": "JLB"
+        },
+        {
+            "link": "",
+            "name": "bahu",
+            "kind": "creation",
+            "creator": "Thixomag"
+        },
+        {
+            "link": "",
+            "name": "banlieue",
+            "kind": "creation",
+            "creator": "K^J.L.B"
+        },
+        {
+            "link": "",
+            "name": "Base_D02",
+            "kind": "creation",
+            "creator": "Bonovox"
+        },
+        {
+            "link": "",
+            "name": "bastion_beta",
+            "kind": "creation",
+            "creator": "Yz"
+        },
+        {
+            "link": "",
+            "name": "bunker_snip",
+            "kind": "creation",
+            "creator": "bigbdu69"
+        },
+        {
+            "link": "",
+            "name": "bunker",
+            "kind": "creation",
+            "creator": "Big-bang"
+        },
+        {
+            "link": "",
+            "name": "Calumpit",
+            "kind": "creation",
+            "creator": "Bonovox"
+        },
+        {
+            "link": "",
+            "name": "Carnage",
+            "creator": ""
+        },
+        {
+            "link": "",
+            "name": "Castle_Rock2",
+            "kind": "creation",
+            "creator": "Bonovox"
+        },
+        {
+            "link": "",
+            "name": "Chinatown",
+            "kind": "creation",
+            "creator": "Jake"
+        },
+        {
+            "link": "",
+            "name": "Crash",
+            "kind": "creation",
+            "creator": ".Bacchus. et TDC"
+        },
+        {
+            "link": "",
+            "name": "CTF_Depot",
+            "kind": "creation",
+            "creator": "Bonovox"
+        },
+        {
+            "link": "",
+            "name": "Cube",
+            "kind": "creation",
+            "creator": "TDC"
+        },
+        {
+            "link": "",
+            "name": "Decharge",
+            "kind": "creation",
+            "creator": "Deliorha481"
+        },
+        {
+            "link": "",
+            "name": "Egypt",
+            "kind": "creation",
+            "creator": "Laboss"
+        },
+        {
+            "link": "",
+            "name": "entrepot",
+            "kind": "creation",
+            "creator": "T-bag"
+        },
+        {
+            "link": "",
+            "name": "forest_bun",
+            "kind": "creation",
+            "creator": "Snake-972"
+        },
+        {
+            "link": "",
+            "name": "Forest_bunker",
+            "kind": "creation",
+            "creator": "Snake-972"
+        },
+        {
+            "link": "",
+            "name": "fragenteam",
+            "creator": ""
+        },
+        {
+            "link": "",
+            "name": "Furusato",
+            "kind": "creation",
+            "creator": "Jake"
+        },
+        {
+            "link": "",
+            "name": "garden",
+            "kind": "creation",
+            "creator": "Arduinna"
+        },
+        {
+            "link": "",
+            "name": "Hangar",
+            "kind": "creation",
+            "creator": "ares."
+        },
+        {
+            "link": "",
+            "name": "laby",
+            "creator": ""
+        },
+        {
+            "link": "",
+            "name": "laferme",
+            "kind": "creation",
+            "creator": "U1"
+        },
+        {
+            "link": "",
+            "name": "LaGrange",
+            "kind": "creation",
+            "creator": "Laboss"
+        },
+        {
+            "link": "",
+            "name": "little_city",
+            "kind": "creation",
+            "creator": "snake_972"
+        },
+        {
+            "link": "",
+            "name": "living_room",
+            "kind": "creation",
+            "creator": "snake_972"
+        },
+        {
+            "link": "",
+            "name": "Lost_Ark2",
+            "kind": "creation",
+            "creator": "Bonovox"
+        },
+        {
+            "link": "",
+            "name": "Medievale",
+            "kind": "creation",
+            "creator": "Ares"
+        },
+        {
+            "link": "",
+            "name": "militaire",
+            "creator": ""
+        },
+        {
+            "link": "",
+            "name": "mindmaze2",
+            "kind": "creation",
+            "creator": "[-THK-]G-Man"
+        },
+        {
+            "link": "",
+            "name": "navaronne",
+            "kind": "creation",
+            "creator": "ELECTRON"
+        },
+        {
+            "link": "",
+            "name": "Normandie",
+            "kind": "creation",
+            "creator": "Bonovox"
+        },
+        {
+            "link": "",
+            "name": "normandie_2",
+            "kind": "modification",
+            "creator": "ELECTRON"
+        },
+        {
+            "link": "",
+            "name": "Nov5mber",
+            "kind": "creation",
+            "creator": "Bacchus"
+        },
+        {
+            "link": "",
+            "name": "Old_city",
+            "kind": "creation",
+            "creator": "JLB"
+        },
+        {
+            "link": "",
+            "name": "paintball",
+            "kind": "creation",
+            "creator": "Stevo"
+        },
+        {
+            "link": "",
+            "name": "Paradise",
+            "kind": "creation",
+            "creator": "7LightMan"
+        },
+        {
+            "link": "",
+            "name": "Quadrat",
+            "creator": ""
+        },
+        {
+            "link": "",
+            "name": "rats_salon",
+            "kind": "creation",
+            "creator": "Electron"
+        },
+        {
+            "link": "",
+            "name": "RevolteS",
+            "kind": "creation",
+            "creator": "JLB"
+        },
+        {
+            "link": "",
+            "name": "RevolteS_snow",
+            "kind": "creation",
+            "creator": "JLB"
+        },
+        {
+            "link": "",
+            "name": "RS_Assault",
+            "kind": "creation",
+            "creator": "7LightMan"
+        },
+        {
+            "link": "",
+            "name": "RS_Aztec",
+            "kind": "creation",
+            "creator": "7LightMan"
+        },
+        {
+            "link": "",
+            "name": "RS_Dust",
+            "kind": "creation",
+            "creator": "Bonovox"
+        },
+        {
+            "link": "",
+            "name": "RS_Inferno",
+            "kind": "creation",
+            "creator": "7LightMan"
+        },
+        {
+            "link": "",
+            "name": "RS_Nuketown",
+            "kind": "creation",
+            "creator": "Dat.Dopeh"
+        },
+        {
+            "link": "",
+            "name": "RS_Tours",
+            "kind": "creation",
+            "creator": "Bonovox"
+        },
+        {
+            "link": "",
+            "name": "rue",
+            "kind": "creation",
+            "creator": "JLB"
+        },
+        {
+            "link": "",
+            "name": "Seagate",
+            "kind": "creation",
+            "creator": "Bonovox"
+        },
+        {
+            "link": "",
+            "name": "SGC",
+            "kind": "creation",
+            "creator": "Electron"
+        },
+        {
+            "link": "",
+            "name": "sk8park_day",
+            "kind": "creation",
+            "creator": "snake_972"
+        },
+        {
+            "link": "",
+            "name": "skatepark",
+            "kind": "creation",
+            "creator": "Big-bang"
+        },
+        {
+            "link": "",
+            "name": "snip_beach",
+            "kind": "creation",
+            "creator": "snake_972"
+        },
+        {
+            "link": "",
+            "name": "Snip_Castle5",
+            "kind": "creation",
+            "creator": "Jake"
+        },
+        {
+            "link": "",
+            "name": "snip_depot",
+            "kind": "creation",
+            "creator": "J.L.B"
+        },
+        {
+            "link": "",
+            "name": "Snip_Light",
+            "kind": "creation",
+            "creator": "Kyo Light"
+        },
+        {
+            "link": "",
+            "name": "sniper_2",
+            "kind": "creation",
+            "creator": "snake_972"
+        },
+        {
+            "link": "",
+            "name": "sniper_snow",
+            "kind": "creation",
+            "creator": "snake_972"
+        },
+        {
+            "link": "",
+            "name": "sniper_snow2",
+            "kind": "creation",
+            "creator": "snake_972"
+        },
+        {
+            "link": "",
+            "name": "stand_de_tir",
+            "kind": "creation",
+            "creator": "yaplus"
+        },
+        {
+            "link": "",
+            "name": "StarSnip",
+            "kind": "creation",
+            "creator": "Bonovox"
+        },
+        {
+            "link": "",
+            "name": "Station_Orbitale",
+            "kind": "creation",
+            "creator": "Jake"
+        },
+        {
+            "link": "",
+            "name": "Street_L",
+            "kind": "creation",
+            "creator": "kyolight"
+        },
+        {
+            "link": "",
+            "name": "Sucrerie",
+            "kind": "creation",
+            "creator": "Laboss"
+        },
+        {
+            "link": "",
+            "name": "Thermes",
+            "kind": "creation",
+            "creator": "Bonovox"
+        },
+        {
+            "link": "",
+            "name": "tranche",
+            "kind": "creation",
+            "creator": "reyman"
+        },
+        {
+            "link": "",
+            "name": "TrenchWar",
+            "kind": "creation",
+            "creator": "Bonovox"
+        },
+        {
+            "link": "",
+            "name": "Try",
+            "kind": "creation",
+            "creator": "Bonovox"
+        },
+        {
+            "link": "",
+            "name": "Valaperil",
+            "kind": "creation",
+            "creator": "Yamamoto"
+        },
+        {
+            "link": "",
+            "name": "vialage",
+            "kind": "creation",
+            "creator": "kimcop"
+        },
+        {
+            "link": "",
+            "name": "Z51",
+            "kind": "creation",
+            "creator": "Bonovox"
+        }
+    ]
+}
